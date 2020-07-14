@@ -2,10 +2,11 @@ using System;
 
 namespace Palindrome
 {
-  public class Palindrome
+  class Palindrome
   {
     public bool IsPalindrome(string wordInput)
     {
+      wordInput.ToLower();
       char[] wordArray = wordInput.ToCharArray();
       Array.Reverse(wordArray);
       string reversedInput = String.Join("", wordArray);
