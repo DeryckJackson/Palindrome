@@ -1,0 +1,11 @@
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\obj\Debug\netcoreapp2.2\Palindromes.csprojAssemblyReference.cache
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\obj\Debug\netcoreapp2.2\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfoInputs.cache
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfo.cs
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\bin\Debug\netcoreapp2.2\Palindromes.deps.json
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\bin\Debug\netcoreapp2.2\Palindromes.runtimeconfig.json
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\bin\Debug\netcoreapp2.2\Palindromes.runtimeconfig.dev.json
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\bin\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\bin\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\obj\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome\obj\Debug\netcoreapp2.2\Palindromes.pdb

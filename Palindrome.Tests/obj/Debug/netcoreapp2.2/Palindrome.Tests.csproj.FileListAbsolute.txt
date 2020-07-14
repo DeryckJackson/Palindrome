@@ -1,0 +1,17 @@
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Palindrome.Tests.deps.json
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Palindrome.Tests.runtimeconfig.json
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Palindrome.Tests.runtimeconfig.dev.json
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Palindrome.Tests.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Palindrome.Tests.pdb
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\bin\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\obj\Debug\netcoreapp2.2\Palindrome.Tests.csprojAssemblyReference.cache
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\obj\Debug\netcoreapp2.2\Palindrome.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\obj\Debug\netcoreapp2.2\Palindrome.Tests.AssemblyInfoInputs.cache
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\obj\Debug\netcoreapp2.2\Palindrome.Tests.AssemblyInfo.cs
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\obj\Debug\netcoreapp2.2\Palindrome.Tests.csproj.CopyComplete
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\obj\Debug\netcoreapp2.2\Palindrome.Tests.dll
+C:\Users\lacke\desktop\epicodus\C#\Palindromes.Solution\Palindrome.Tests\obj\Debug\netcoreapp2.2\Palindrome.Tests.pdb
